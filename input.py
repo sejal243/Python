@@ -1,0 +1,6 @@
+name = str(input("Enter your name: "))
+age = int(input("Enter your age: "))
+gender = str(input("Enter your gender: "))
+print("Your name is", name)
+print("Your name is", age)
+print("Your name is", name)
